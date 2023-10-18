@@ -1,2 +1,2 @@
 # HW_Assembly
-All PCB Assembly related learning material, Links, Vendors will be published here. 
+0402 Footprint errors and standard footprint : https://www.worthingtonassembly.com/perfect-0402-footprint
